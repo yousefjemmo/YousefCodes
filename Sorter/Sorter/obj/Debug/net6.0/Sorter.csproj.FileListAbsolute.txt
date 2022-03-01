@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\bin\Debug\net6.0\Sorter.exe
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\bin\Debug\net6.0\Sorter.deps.json
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\bin\Debug\net6.0\Sorter.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\bin\Debug\net6.0\Sorter.dll
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\bin\Debug\net6.0\ref\Sorter.dll
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\bin\Debug\net6.0\Sorter.pdb
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.dll
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\ref\Sorter.dll
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.pdb
+C:\Users\yje\source\repos\Temperature\Sorter\Sorter\obj\Debug\net6.0\Sorter.genruntimeconfig.cache

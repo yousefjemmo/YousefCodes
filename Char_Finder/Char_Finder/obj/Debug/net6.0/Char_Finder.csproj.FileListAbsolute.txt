@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\bin\Debug\net6.0\Char_Finder.exe
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\bin\Debug\net6.0\Char_Finder.deps.json
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\bin\Debug\net6.0\Char_Finder.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\bin\Debug\net6.0\Char_Finder.dll
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\bin\Debug\net6.0\ref\Char_Finder.dll
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\bin\Debug\net6.0\Char_Finder.pdb
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.dll
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\ref\Char_Finder.dll
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.pdb
+C:\Users\yje\source\repos\Temperature\Char_Finder\Char_Finder\obj\Debug\net6.0\Char_Finder.genruntimeconfig.cache

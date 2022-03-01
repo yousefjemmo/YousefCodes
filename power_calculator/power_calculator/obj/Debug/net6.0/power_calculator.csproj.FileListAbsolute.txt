@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\bin\Debug\net6.0\power_calculator.exe
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\bin\Debug\net6.0\power_calculator.deps.json
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\bin\Debug\net6.0\power_calculator.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\bin\Debug\net6.0\power_calculator.dll
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\bin\Debug\net6.0\ref\power_calculator.dll
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\bin\Debug\net6.0\power_calculator.pdb
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.dll
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\ref\power_calculator.dll
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.pdb
+C:\Users\yje\source\repos\Temperature\power_calculator\power_calculator\obj\Debug\net6.0\power_calculator.genruntimeconfig.cache

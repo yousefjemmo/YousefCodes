@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\bin\Debug\net6.0\Ship.exe
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\bin\Debug\net6.0\Ship.deps.json
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\bin\Debug\net6.0\Ship.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\bin\Debug\net6.0\Ship.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\bin\Debug\net6.0\ref\Ship.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\bin\Debug\net6.0\Ship.pdb
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\ref\Ship.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.pdb
+C:\Users\yje\source\repos\Temperature\ASCII\Ship\obj\Debug\net6.0\Ship.genruntimeconfig.cache

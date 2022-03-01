@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcf63afb-2eb6-4160-88bf-f7f803858e9f": {
+      "ProjectGuid": "dcf63afb-2eb6-4160-88bf-f7f803858e9f",
+      "DisplayName": "calculate factorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

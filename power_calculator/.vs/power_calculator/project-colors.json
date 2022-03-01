@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cfd7a1a-25b1-48e9-9bd0-cbf2343f08ba": {
+      "ProjectGuid": "8cfd7a1a-25b1-48e9-9bd0-cbf2343f08ba",
+      "DisplayName": "power_calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

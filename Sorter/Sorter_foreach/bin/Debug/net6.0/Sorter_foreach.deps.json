@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sorter_foreach/1.0.0": {
+        "runtime": {
+          "Sorter_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorter_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3554449-f61e-4219-a3c1-3479bb9e871c": {
+      "ProjectGuid": "e3554449-f61e-4219-a3c1-3479bb9e871c",
+      "DisplayName": "ASCII",
+      "ColorIndex": 0
+    },
+    "d2120c9b-05cf-452a-90c6-59710d843deb": {
+      "ProjectGuid": "d2120c9b-05cf-452a-90c6-59710d843deb",
+      "DisplayName": "Glas",
+      "ColorIndex": 1
+    },
+    "3b46bb22-9d2c-4add-8687-0084120f85bb": {
+      "ProjectGuid": "3b46bb22-9d2c-4add-8687-0084120f85bb",
+      "DisplayName": "Ship",
+      "ColorIndex": 2
+    },
+    "c5c6ac7e-dafb-4dbd-8b54-0b0e8e9261b7": {
+      "ProjectGuid": "c5c6ac7e-dafb-4dbd-8b54-0b0e8e9261b7",
+      "DisplayName": "Ship2",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

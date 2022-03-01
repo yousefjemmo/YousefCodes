@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\bin\Debug\net6.0\Ship2.exe
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\bin\Debug\net6.0\Ship2.deps.json
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\bin\Debug\net6.0\Ship2.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\bin\Debug\net6.0\Ship2.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\bin\Debug\net6.0\ref\Ship2.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\bin\Debug\net6.0\Ship2.pdb
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\ref\Ship2.dll
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.pdb
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.genruntimeconfig.cache
+C:\Users\yje\source\repos\Temperature\ASCII\Ship2\obj\Debug\net6.0\Ship2.csproj.AssemblyReference.cache

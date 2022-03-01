@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39b4f323-e921-4a1a-b54b-264f41426bb1": {
+      "ProjectGuid": "39b4f323-e921-4a1a-b54b-264f41426bb1",
+      "DisplayName": "Char_Finder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
