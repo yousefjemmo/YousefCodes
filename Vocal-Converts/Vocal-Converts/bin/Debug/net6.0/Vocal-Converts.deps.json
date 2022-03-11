@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vocal-Converts/1.0.0": {
+        "runtime": {
+          "Vocal-Converts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vocal-Converts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\bin\Debug\net6.0\Vocal-Converts.exe
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\bin\Debug\net6.0\Vocal-Converts.deps.json
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\bin\Debug\net6.0\Vocal-Converts.runtimeconfig.json
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\bin\Debug\net6.0\Vocal-Converts.dll
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\bin\Debug\net6.0\ref\Vocal-Converts.dll
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\bin\Debug\net6.0\Vocal-Converts.pdb
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.AssemblyInfo.cs
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.dll
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\ref\Vocal-Converts.dll
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.pdb
+C:\Users\yje\source\repos\Vocal-Converts\Vocal-Converts\obj\Debug\net6.0\Vocal-Converts.genruntimeconfig.cache
