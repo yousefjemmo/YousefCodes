@@ -73,14 +73,10 @@ namespace ASCII
 
                 if (InputDirection == "u")
                 {
-                    
+                    AddStepWithoutBall(repeatedTimes);
                 }
 
-
-            }
-                
-
-
+            }            
 
         }
 

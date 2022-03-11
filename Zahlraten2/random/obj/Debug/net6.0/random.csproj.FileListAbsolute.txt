@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Zahlraten2\random\bin\Debug\net6.0\random.exe
+C:\Users\yje\source\repos\Zahlraten2\random\bin\Debug\net6.0\random.deps.json
+C:\Users\yje\source\repos\Zahlraten2\random\bin\Debug\net6.0\random.runtimeconfig.json
+C:\Users\yje\source\repos\Zahlraten2\random\bin\Debug\net6.0\random.dll
+C:\Users\yje\source\repos\Zahlraten2\random\bin\Debug\net6.0\ref\random.dll
+C:\Users\yje\source\repos\Zahlraten2\random\bin\Debug\net6.0\random.pdb
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.AssemblyInfo.cs
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.dll
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\ref\random.dll
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.pdb
+C:\Users\yje\source\repos\Zahlraten2\random\obj\Debug\net6.0\random.genruntimeconfig.cache

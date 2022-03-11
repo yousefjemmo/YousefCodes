@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a4e94c0-8d4d-43ff-9dc6-5facc0d8111d": {
+      "ProjectGuid": "9a4e94c0-8d4d-43ff-9dc6-5facc0d8111d",
+      "DisplayName": "Zahlraten2",
+      "ColorIndex": 0
+    },
+    "57c51647-759a-4a51-a2e6-b53396c48a9c": {
+      "ProjectGuid": "57c51647-759a-4a51-a2e6-b53396c48a9c",
+      "DisplayName": "random",
+      "ColorIndex": 1
+    },
+    "da299a0a-1eb3-42d0-bfa9-d51651da22c3": {
+      "ProjectGuid": "da299a0a-1eb3-42d0-bfa9-d51651da22c3",
+      "DisplayName": "1",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "905aa0b2-5d84-4f63-b8c6-e489ed2107d2": {
+      "ProjectGuid": "905aa0b2-5d84-4f63-b8c6-e489ed2107d2",
+      "DisplayName": "Temperature",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
