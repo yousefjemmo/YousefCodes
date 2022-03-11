@@ -1,10 +1,4 @@
-﻿
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ASCII
+﻿namespace ASCII
 {
     internal class ASCII
     {
@@ -73,7 +67,6 @@ namespace ASCII
             {
                 throw new ArgumentException();
             }
-
         }
 
         private static string GetHead(int size)
@@ -91,10 +84,7 @@ namespace ASCII
                     results = results + " ";
 
                 }
-
-
                 results += "/";
-
 
                 int innerSizeInCurrentRow = row * 2 + 1;
                 for (col = 1; col < innerSizeInCurrentRow; col++)
@@ -104,27 +94,25 @@ namespace ASCII
                 }
                 results += "\\";
 
-
                 results += System.Environment.NewLine;
-
-
             }
             return results;
         }
+
         private static string GetShoulder(int size)
         {
             int col;
             string results = "";
             results += " ";
 
-            results += Shoulder(size);
+            results += GetRailing(size);
             results += "/";
             for (col = 1; col < size - 1; col++)
             {
-                results = results + " ";
+                results += " ";
             }
             results += "\\";
-            results += Shoulder(size);
+            results += GetRailing(size);
 
             results += System.Environment.NewLine;
 
@@ -132,19 +120,17 @@ namespace ASCII
 
         }
 
-        private static string Shoulder(int size)
+        private static string GetRailing(int size)
         {
             int row;
-            string xresult = "";
+            string results = "";
             for (row = 1; row <= size / 2; row++)
             {
-                xresult = xresult + "_";
+                results += "_";
             }
-            return xresult;
+            return results;
 
         }
-
-
 
         private static string GetLowerBody(int size)
         {
@@ -157,9 +143,7 @@ namespace ASCII
                 {
                     results = results + " ";
                 }
-
                 results += "\\";
-
 
                 for (col = 1; col < (size * 2 - row * 2 + 1); col++)
                 {
@@ -167,10 +151,7 @@ namespace ASCII
 
                 }
                 results += "/";
-
                 results += System.Environment.NewLine;
-
-
             }
             return results;
         }

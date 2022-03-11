@@ -20,7 +20,12 @@
       "ProjectGuid": "c5c6ac7e-dafb-4dbd-8b54-0b0e8e9261b7",
       "DisplayName": "Ship2",
       "ColorIndex": 3
+    },
+    "99fefcbb-e721-4453-b181-8ed632db5a1b": {
+      "ProjectGuid": "99fefcbb-e721-4453-b181-8ed632db5a1b",
+      "DisplayName": "Stairs",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
