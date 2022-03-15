@@ -10,6 +10,9 @@ namespace ASCII
     {
         public static void Main(string[] args)
         {
+
+          
+
             int size = 0;
             bool InputNumberIsValid = false;
 
@@ -56,27 +59,19 @@ namespace ASCII
                 }
             }
 
-            var jump = true;
-            for (int repeatedTimes = 0; repeatedTimes < size; repeatedTimes++)
+            if (InputDirection == "d")
             {
-               
-                 Console.WriteLine(FullStairs(size, repeatedTimes, jump));
-                
-                if (jump)
-                {
-                    jump = false;
-                }
-                else
-                {
-                    jump = true;
-                }
+                PrintStairs(size, false);
+            }
 
-                if (InputDirection == "u")
-                {
-                    AddStepWithoutBall(repeatedTimes);
-                }
+            if (InputDirection == "u")
+            {
+                PrintStairsUpwards(size, false);
+            }
 
-            }            
+            
+            
+           
 
         }
 
@@ -176,7 +171,31 @@ namespace ASCII
             return results;
         }
 
-      
+        public static void PrintStairs(int size, bool jump)
+        {
+            jump = true;
+            for (int ballPosition = 0; ballPosition < size; ballPosition++)
+            {
+                jump = !jump;
+
+                Console.WriteLine(FullStairs(size, ballPosition, jump));
+            }
+        }
+
+        public static void PrintStairsUpwards(int size, bool jump)
+        {
+            jump = true;
+            for (int ballPosition = size - 1; ballPosition >= 0; ballPosition--)
+            {
+                jump =!jump;
+
+                Console.WriteLine(FullStairs(size, ballPosition, jump));
+            }
+        }
+
+    
+
+
 
     }
 }

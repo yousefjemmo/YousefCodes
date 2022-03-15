@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Ship\\Ship.csproj",
+      "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Ship\\Ship.csproj",
       "projectName": "Ship",
-      "projectPath": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Ship\\Ship.csproj",
+      "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Ship\\Ship.csproj",
       "packagesPath": "C:\\Users\\yje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Ship\\obj\\",
+      "outputPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Ship\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yje\\AppData\\Roaming\\NuGet\\NuGet.Config",

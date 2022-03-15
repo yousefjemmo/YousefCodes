@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Glas\\Glas.csproj": {}
+    "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Glas\\Glas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Glas\\Glas.csproj": {
+    "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Glas\\Glas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Glas\\Glas.csproj",
+        "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Glas\\Glas.csproj",
         "projectName": "Glas",
-        "projectPath": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Glas\\Glas.csproj",
+        "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Glas\\Glas.csproj",
         "packagesPath": "C:\\Users\\yje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\Glas\\obj\\",
+        "outputPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\Glas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yje\\AppData\\Roaming\\NuGet\\NuGet.Config",

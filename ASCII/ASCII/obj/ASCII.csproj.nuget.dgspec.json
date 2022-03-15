@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\ASCII\\ASCII.csproj": {}
+    "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\ASCII\\ASCII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\ASCII\\ASCII.csproj": {
+    "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\ASCII\\ASCII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\ASCII\\ASCII.csproj",
+        "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\ASCII\\ASCII.csproj",
         "projectName": "ASCII",
-        "projectPath": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\ASCII\\ASCII.csproj",
+        "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\ASCII\\ASCII.csproj",
         "packagesPath": "C:\\Users\\yje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yje\\source\\repos\\Temperature\\ASCII\\ASCII\\obj\\",
+        "outputPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\ASCII\\ASCII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yje\\AppData\\Roaming\\NuGet\\NuGet.Config",
