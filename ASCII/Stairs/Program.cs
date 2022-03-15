@@ -9,10 +9,7 @@ namespace ASCII
     internal class Stairs
     {
         public static void Main(string[] args)
-        {
-
-          
-
+        {         
             int size = 0;
             bool InputNumberIsValid = false;
 
@@ -23,7 +20,6 @@ namespace ASCII
                     size = AskForNumber();
                     CheckIfNumberIsInRange(size);
                     InputNumberIsValid = true;
-
                 }
                 catch (ArgumentOutOfRangeException)
                 {
@@ -38,7 +34,6 @@ namespace ASCII
                 {
                     Console.WriteLine("The number is too big");
                 }
-
             }
 
             bool InputDirectionIsValid = false;
@@ -61,17 +56,13 @@ namespace ASCII
 
             if (InputDirection == "d")
             {
-                PrintStairs(size, false);
+               Console.WriteLine(PrintStairs(size, false));
             }
 
             if (InputDirection == "u")
             {
                 PrintStairsUpwards(size, false);
-            }
-
-            
-            
-           
+            }          
 
         }
 
@@ -171,31 +162,29 @@ namespace ASCII
             return results;
         }
 
-        public static void PrintStairs(int size, bool jump)
+        public static string PrintStairs(int size, bool jump)
         {
-            jump = true;
+            string reuslts = "";
+
             for (int ballPosition = 0; ballPosition < size; ballPosition++)
             {
-                jump = !jump;
+               
 
-                Console.WriteLine(FullStairs(size, ballPosition, jump));
+                reuslts += FullStairs(size, ballPosition, jump);
+                jump = !jump;
             }
+            return reuslts;
         }
 
         public static void PrintStairsUpwards(int size, bool jump)
         {
-            jump = true;
+            
             for (int ballPosition = size - 1; ballPosition >= 0; ballPosition--)
-            {
-                jump =!jump;
+            {              
 
                 Console.WriteLine(FullStairs(size, ballPosition, jump));
+                jump = !jump;
             }
         }
-
-    
-
-
-
     }
 }
