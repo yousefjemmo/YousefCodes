@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Temperature\Test\Test3\bin\Debug\net6.0\Test3.exe
+C:\Users\yje\source\repos\Temperature\Test\Test3\bin\Debug\net6.0\Test3.deps.json
+C:\Users\yje\source\repos\Temperature\Test\Test3\bin\Debug\net6.0\Test3.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\Test\Test3\bin\Debug\net6.0\Test3.dll
+C:\Users\yje\source\repos\Temperature\Test\Test3\bin\Debug\net6.0\ref\Test3.dll
+C:\Users\yje\source\repos\Temperature\Test\Test3\bin\Debug\net6.0\Test3.pdb
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.dll
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\ref\Test3.dll
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.pdb
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.genruntimeconfig.cache
+C:\Users\yje\source\repos\Temperature\Test\Test3\obj\Debug\net6.0\Test3.csproj.AssemblyReference.cache
