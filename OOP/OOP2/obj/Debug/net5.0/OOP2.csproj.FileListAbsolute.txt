@@ -1,0 +1,16 @@
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\bin\Debug\net5.0\OOP2.exe
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\bin\Debug\net5.0\OOP2.deps.json
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.json
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.dev.json
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\bin\Debug\net5.0\OOP2.dll
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\bin\Debug\net5.0\OOP2.pdb
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfo.cs
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.dll
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\refint\OOP2.dll
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.pdb
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\OOP2.genruntimeconfig.cache
+C:\Users\yje\source\repos\Yousef Codes\OOP\OOP2\obj\Debug\net5.0\ref\OOP2.dll

@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Collections;
 
 namespace OOP
 {
@@ -6,34 +6,23 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            string input = "";
+            string name = "";
             int age = 0;
+            int numberinput = 0;            
+            bool NumberInputIsValid = false;
+            
 
-
-            bool InputIsValid = false;
-
-            while (!InputIsValid)
+            while (!NumberInputIsValid)
             {
                 try
                 {
-                    input = AskForName();
-                    CheckIfInputISCorrect(input);
-                    InputIsValid = true;
+                    numberinput = AskForNumber();
+                    CheckNumberInput(numberinput);
+                    NumberInputIsValid = true;
                 }
-                catch (ArgumentException)
+                catch (ArgumentOutOfRangeException)
                 {
-                    Console.WriteLine("Try the name again!!");
-                }
-            }
-
-            bool AgeIsValid = false;
-
-            while (!AgeIsValid)
-            {
-                try
-                {
-                    age = AskForAge();
-                    AgeIsValid = true;
+                    Console.WriteLine("Number need to be between 1 and 12!");
                 }
                 catch (System.FormatException)
                 {
@@ -45,13 +34,77 @@ namespace OOP
                 }
             }
 
-            User UserInput = new User(input, age);
-            Console.WriteLine(UserInput.UserName);
-            Console.WriteLine(UserInput.IsAdult);
+            User[] userInputList = new User[numberinput];
+
+            for (int i = 0; i < numberinput; i++)
+            {
+                bool InputIsValid = false;
+
+                while (!InputIsValid)
+                {
+                    try
+                    {
+                        name = AskForName();
+                        CheckIfInputNameIsCorrect(name);
+                        InputIsValid = true;
+                    }
+                    catch (ArgumentException)
+                    {
+                        Console.WriteLine("Try the name again!!");
+                    }
+                }
+
+                bool AgeIsValid = false;
+
+                while (!AgeIsValid)
+                {
+                    try
+                    {
+                        age = AskForAge();
+                        AgeIsValid = true;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("You only allowed to enter numbers");
+                    }
+                    catch (System.OverflowException)
+                    {
+                        Console.WriteLine("Number is too big");
+                    }
+                    
+                }
+
+                User UserInput = new User(name, age);              
+                userInputList[i] = UserInput;
+                
+                
+
+            }            
+
+            foreach (User user in userInputList)
+            {
+                if (user.IsAdult)
+                {
+                    user.JoinGame();
+                    Console.WriteLine($"{user.UserName} has Joined the game");
+                }
+            }
         }
 
+        public static int AskForNumber()
+        {
+            Console.WriteLine("Please insert a number:");
+            int NumberInput = Convert.ToInt32(Console.ReadLine());
+            return NumberInput;
+        }
 
-
+        public static void CheckNumberInput(int numberInput)
+        {
+            if (numberInput < 1 || numberInput > 12)
+            {
+                throw new ArgumentOutOfRangeException();
+            }
+        }
 
         public static string AskForName()
         {
@@ -59,9 +112,8 @@ namespace OOP
             return Console.ReadLine();
         }
 
-
-        public static void CheckIfInputISCorrect(string input)
-        {           
+        public static void CheckIfInputNameIsCorrect(string input)
+        {
             foreach (char c in input)
             {
                 if (!char.IsLetter(c) && !char.IsWhiteSpace(c) && c != '-')
@@ -69,16 +121,15 @@ namespace OOP
                     throw new ArgumentException();
                 }
             }
-            
         }
 
-        public  static int AskForAge()
+        public static int AskForAge()
         {
             Console.WriteLine("Please enter your age:");
             int AgeInput = Convert.ToInt32(Console.ReadLine());
             return AgeInput;
         }
 
-        
+
     }
 }

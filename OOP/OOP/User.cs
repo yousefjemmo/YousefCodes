@@ -8,13 +8,29 @@ namespace OOP
 {
    public class User
    {
-       public string UserName;
-       public bool IsAdult;
+        public string UserName;
+        public bool IsAdult;
+        private bool InGame;
 
+       
         public User(string name, int age)
         {
-            UserName = name;
-            IsAdult = age >= 18;
+            this.UserName = name;
+            IsAdult = age >= 18;        
+        }
+
+        
+
+        public void JoinGame()
+        {
+           if (InGame == false)
+           {
+                InGame = true;
+           }
+           else
+           {
+                throw new InvalidOperationException();
+           }
         }
    }
     
