@@ -10,29 +10,50 @@ namespace OOP
    {
         public string UserName;
         public bool IsAdult;
-        private bool InGame;
+        
 
        
         public User(string name, int age)
         {
             this.UserName = name;
-            IsAdult = age >= 18;        
+            IsAdult = age >= 18;
+            State = UserState.ReadyForGame;
+            
         }
 
         
 
-        public void JoinGame()
+        public void JoinGame(string GameName)
         {
-           if (InGame == false)
+           if (State == UserState.ReadyForGame || State == UserState.InGame)
            {
-                InGame = true;
+                this.GameName = GameName;
            }
-           else
+           else if (State == UserState.Offline)
            {
-                throw new InvalidOperationException();
+                throw new ArgumentException();
            }
+        }       
+
+        public enum UserState
+        {
+            InGame,
+            ReadyForGame,
+            Offline,
         }
-   }
+
+        public UserState State { get; set; }
+
+        private string GameName { get; set; }
+
+        public void Logout()
+        {
+            State = UserState.Offline;
+            GameName = "";
+        }
+
+
+    }
     
 
 }

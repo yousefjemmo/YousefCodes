@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using static OOP.User;
 
 namespace OOP
 {
@@ -10,7 +11,10 @@ namespace OOP
             int age = 0;
             int numberinput = 0;            
             bool NumberInputIsValid = false;
-            
+            string Gamename = "";
+
+
+
 
             while (!NumberInputIsValid)
             {
@@ -35,16 +39,18 @@ namespace OOP
             }
 
             User[] userInputList = new User[numberinput];
+            string[] GameNameList = new string[numberinput];
 
             for (int i = 0; i < numberinput; i++)
             {
-                bool InputIsValid = false;
+                
 
+                bool InputIsValid = false;
                 while (!InputIsValid)
                 {
                     try
                     {
-                        name = AskForName();
+                        name = AskForName().ToUpper();
                         CheckIfInputNameIsCorrect(name);
                         InputIsValid = true;
                     }
@@ -73,23 +79,33 @@ namespace OOP
                     }
                     
                 }
+                Gamename = AskForGameName().ToUpper();
 
-                User UserInput = new User(name, age);              
+                User UserInput = new User(name, age);                
                 userInputList[i] = UserInput;
-                
-                
+                GameNameList[i] = Gamename;
+               
+            }
 
-            }            
-
-            foreach (User user in userInputList)
+            for (int i = 0; i < numberinput; i++)
             {
+                var user = userInputList[i];
                 if (user.IsAdult)
                 {
-                    user.JoinGame();
-                    Console.WriteLine($"{user.UserName} has Joined the game");
+                    user.JoinGame(GameNameList[i]);
+
+                    
                 }
             }
+         
         }
+
+        public static string AskForGameName()
+        {
+            Console.WriteLine("Please enter the game name: ");
+            return Console.ReadLine();
+        }      
+       
 
         public static int AskForNumber()
         {
@@ -122,7 +138,6 @@ namespace OOP
                 }
             }
         }
-
         public static int AskForAge()
         {
             Console.WriteLine("Please enter your age:");
