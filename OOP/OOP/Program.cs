@@ -83,8 +83,7 @@ namespace OOP
 
                 User UserInput = new User(name, age);                
                 userInputList[i] = UserInput;
-                GameNameList[i] = Gamename;
-               
+                GameNameList[i] = Gamename;               
             }
 
             for (int i = 0; i < numberinput; i++)
@@ -92,9 +91,7 @@ namespace OOP
                 var user = userInputList[i];
                 if (user.IsAdult)
                 {
-                    user.JoinGame(GameNameList[i]);
-
-                    
+                    user.JoinGame(GameNameList[i]);                    
                 }
             }
          
