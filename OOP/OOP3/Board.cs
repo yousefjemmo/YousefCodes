@@ -30,14 +30,17 @@ namespace OOP3
         }
 
         public void RemoveAllFinishedTickets()
-        {            
-            foreach (var donetickets in Tickets)
+        {   
+            
+            var ticketsDone = GetTicketsByState(State.Done);
+            foreach (var ticket in ticketsDone)
             {
-                if (State.Done == donetickets.GetState())
-                {
-                    Tickets.Remove(donetickets);
-                }      
+                Tickets.Remove(ticket);
             }
+
+            Console.WriteLine($"{ticketsDone.Count} has been deleted.");
+            
+            
         }
     }
 }

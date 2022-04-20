@@ -26,6 +26,7 @@ namespace OOP3
                 else if (input == "C")
                 {
                     EndTicket(MyObj);
+                    
                 }
                 else if (input == "D")
                 {
@@ -74,71 +75,72 @@ namespace OOP3
         }
 
         public static void TakeTicketInWork(Board board)
-        {           
-
-            Console.WriteLine("take ticket in work ");
-            Console.Write("Please Insert your name: ");
-            string name = Console.ReadLine().ToUpper();            
-
+        {
             var newTicket = board.GetTicketsByState(State.New);
-            foreach (var ticket in newTicket)
+
+            if (newTicket.Count == 0)
             {
-                ticket.PutToWork(name);
+                Console.WriteLine("There is no tickets. Please add tickets first");
             }
-                       
-               
+            else if (newTicket.Count >= 1)
+            {
+                Console.WriteLine("take ticket in work ");
+                Console.Write("Please Insert your name: ");
+                string name = Console.ReadLine().ToUpper();
+                newTicket[0].PutToWork(name);
+            }                                          
         }
 
         public static void EndTicket(Board board)
         {
+            
             Console.WriteLine("End Ticket");
             board.GetTicketsByState(State.Active);
 
-            var newTicket = board.GetTicketsByState(State.Active);
-            newTicket[0].FinishWork();
+            var newTicket = board.GetTicketsByState(State.Active);            
+            if (newTicket.Count == 0)
+            {
+                Console.WriteLine("There is no ticket");
+            }
+            else if (newTicket.Count >= 1)
+            {
+                newTicket[0].FinishWork();
+
+                var ticket = newTicket[0];
+                for (int i = 0; i < newTicket.Count; i++)
+                {
+                    Console.WriteLine(ticket.GetTitle());
+                    Console.WriteLine(ticket.GetAuthor());
+                    Console.WriteLine(ticket.GetAssignee());
+
+                }
+            }       
+
+           
         }
 
-        public static void ShowTickets( Board board)
+        public static void ShowTickets(Board board)
         {
             Console.WriteLine("Show Ticket");
             Console.Write("Please insert a state New, Done or Active: ");
-            string state = Console.ReadLine().ToLower();           
+            string state = Console.ReadLine().ToLower();
 
             if (state == "new")
             {
-                var StateNew = board.GetTicketsByState(State.New);              
+ 
+                checkstate(board , State.New);
 
-                foreach (var ticket in StateNew)
-                {
-                    Console.WriteLine(ticket.GetTitle());
-                    Console.WriteLine(ticket.GetAuthor());
-                    Console.WriteLine(ticket.GetAssignee());
-                }
-                
             }
             else if (state == "active")
             {
-                var StateActive = board.GetTicketsByState(State.Active);               
-
-                foreach (var ticket in StateActive)
-                {
-                    Console.WriteLine(ticket.GetTitle());
-                    Console.WriteLine(ticket.GetAuthor());
-                    Console.WriteLine(ticket.GetAssignee());
-                }
+          
+                checkstate(board, State.Active);
 
             }
             else if (state == "done")
             {
-                var StateDone = board.GetTicketsByState(State.Done);
-                
-                foreach (var ticket in StateDone)
-                {
-                    Console.WriteLine(ticket.GetTitle());
-                    Console.WriteLine(ticket.GetAuthor());
-                    Console.WriteLine(ticket.GetAssignee());
-                }
-
+          
+                checkstate(board , State.Done);
             }
         }
 
@@ -147,5 +149,17 @@ namespace OOP3
             Console.WriteLine("Delete Tickets");
             board.RemoveAllFinishedTickets();
         }
+
+        public static void checkstate(Board board, State state)
+        {
+            var tiketsLists = board.GetTicketsByState(state);
+
+            foreach (var ticket in tiketsLists)
+            {
+                Console.WriteLine(ticket.GetTitle());
+                Console.WriteLine(ticket.GetAuthor());
+                Console.WriteLine(ticket.GetAssignee());
+            }
+        }       
     }
 }
