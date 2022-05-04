@@ -15,14 +15,12 @@ namespace BinaryTask
                 string Input = NameInput();
                 CheckIfNameInList(Input, DevTeam);
                 int result = binarySearch(DevTeam, Input);
-                Console.WriteLine($"And the number postion in the array is {result}");
-                             
+                Console.WriteLine($"And the number postion in the array is {result}");                             
             }
             catch (ArgumentException)
             {
                 Console.WriteLine("The Name does not exist!");
             }
-
         }
 
         public static string NameInput()
@@ -47,9 +45,11 @@ namespace BinaryTask
 
         public static int binarySearch(string[] array, string name)
         {
+
             int Left = 0, Right = array.Length - 1;
             while (Left <= Right)
             {
+                Console.WriteLine("here");
                 int middle = Left + (Right - Left) / 2;
 
                 int check = name.CompareTo(array[middle]);

@@ -1,0 +1,16 @@
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\bin\Debug\net5.0\CSharpSectionTwo.exe
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\bin\Debug\net5.0\CSharpSectionTwo.deps.json
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\bin\Debug\net5.0\CSharpSectionTwo.runtimeconfig.json
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\bin\Debug\net5.0\CSharpSectionTwo.runtimeconfig.dev.json
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\bin\Debug\net5.0\CSharpSectionTwo.dll
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\bin\Debug\net5.0\CSharpSectionTwo.pdb
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.AssemblyInfo.cs
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.dll
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\refint\CSharpSectionTwo.dll
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.pdb
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\CSharpSectionTwo.genruntimeconfig.cache
+C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\CSharpSectionTwo\obj\Debug\net5.0\ref\CSharpSectionTwo.dll
