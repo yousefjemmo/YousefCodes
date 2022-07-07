@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "21Arrays/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/21Arrays.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/21Arrays.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "21Arrays/1.0.0": {
+      "type": "project",
+      "path": "../21Arrays/21Arrays.csproj",
+      "msbuildProject": "../21Arrays/21Arrays.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "21Arrays >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yje\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\21Arrays\\21Arrays.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\21Arrays\\21Arrays.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

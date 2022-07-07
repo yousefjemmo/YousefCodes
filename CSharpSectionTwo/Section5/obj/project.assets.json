@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "21Arrays/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/21Arrays.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/21Arrays.dll": {}
+        }
+      },
       "Section7/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "21Arrays": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Section7.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "21Arrays/1.0.0": {
+      "type": "project",
+      "path": "../21Arrays/21Arrays.csproj",
+      "msbuildProject": "../21Arrays/21Arrays.csproj"
+    },
     "Section7/1.0.0": {
       "type": "project",
       "path": "../Section7/Section7.csproj",
