@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Magazine.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "Magazine.DataAccessLayer": "1.0.0",
+          "Magazine.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Magazine.BusinessLogic.dll": {}
+        }
+      },
+      "Magazine.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "Magazine.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Magazine.DataAccessLayer.dll": {}
+        }
+      },
+      "Magazine.Entities/1.0.0": {
+        "dependencies": {
+          "Magazine.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "Magazine.Entities.dll": {}
+        }
+      },
+      "Magazine.Exceptions/1.0.0": {
+        "runtime": {
+          "Magazine.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magazine.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magazine.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magazine.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magazine.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

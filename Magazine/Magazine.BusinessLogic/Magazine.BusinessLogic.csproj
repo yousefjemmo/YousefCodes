@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Magazine.DataAccess\Magazine.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Magazine.Entities\Magazine.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

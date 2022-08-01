@@ -1,0 +1,5 @@
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.DataAcc\obj\Debug\net5.0\YousefBank.DataAcc.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.DataAcc\obj\Debug\net5.0\YousefBank.DataAcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.DataAcc\obj\Debug\net5.0\YousefBank.DataAcc.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.DataAcc\obj\Debug\net5.0\YousefBank.DataAcc.AssemblyInfo.cs
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.DataAcc\obj\Debug\net5.0\YousefBank.DataAcc.csproj.CoreCompileInputs.cache

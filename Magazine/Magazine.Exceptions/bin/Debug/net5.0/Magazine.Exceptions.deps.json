@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Magazine.Exceptions/1.0.0": {
+        "runtime": {
+          "Magazine.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magazine.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

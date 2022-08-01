@@ -1,0 +1,12 @@
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\bin\Debug\net5.0\Magazine.Configuration.deps.json
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\bin\Debug\net5.0\Magazine.Configuration.dll
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\bin\Debug\net5.0\Magazine.Configuration.pdb
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.AssemblyInfo.cs
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.dll
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\refint\Magazine.Configuration.dll
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\Magazine.Configuration.pdb
+C:\Users\yje\source\repos\Magazine\MagazineConfiguration\obj\Debug\net5.0\ref\Magazine.Configuration.dll

@@ -1,0 +1,16 @@
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\bin\Debug\net5.0\^Section25.exe
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\bin\Debug\net5.0\^Section25.deps.json
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\bin\Debug\net5.0\^Section25.runtimeconfig.json
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\bin\Debug\net5.0\^Section25.runtimeconfig.dev.json
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\bin\Debug\net5.0\^Section25.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\bin\Debug\net5.0\^Section25.pdb
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.AssemblyInfo.cs
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\refint\^Section25.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.pdb
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\^Section25.genruntimeconfig.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\^Section25\obj\Debug\net5.0\ref\^Section25.dll

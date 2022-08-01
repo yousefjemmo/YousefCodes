@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YousefBank.configuration\YousefBank.configuration.csproj" />
+    <ProjectReference Include="..\YousefBank.DataAcc\YousefBank.DataAcc.csproj" />
+    <ProjectReference Include="..\YousefBank.Eceptions\YousefBank.Eceptions.csproj" />
+    <ProjectReference Include="..\YousefBank.Entities\YousefBank.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

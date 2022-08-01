@@ -5,4 +5,11 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\YousefBank.BusinessLogicLayer\YousefBank.BusinessLogicLayer.csproj" />
+    <ProjectReference Include="..\YousefBank.configuration\YousefBank.configuration.csproj" />
+    <ProjectReference Include="..\YousefBank.Eceptions\YousefBank.Eceptions.csproj" />
+    <ProjectReference Include="..\YousefBank.Entities\YousefBank.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

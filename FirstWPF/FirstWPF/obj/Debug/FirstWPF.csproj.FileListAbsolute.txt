@@ -1,0 +1,8 @@
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\bin\Debug\FirstWPF.exe.config
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\bin\Debug\FirstWPF.exe
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\bin\Debug\FirstWPF.pdb
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\obj\Debug\FirstWPF.exe
+C:\Users\yje\source\repos\FirstWPF\FirstWPF\obj\Debug\FirstWPF.pdb

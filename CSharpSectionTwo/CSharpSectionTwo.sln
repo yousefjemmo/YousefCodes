@@ -19,7 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections22", "Collection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colection22.1", "Colection22.1\Colection22.1.csproj", "{FBFF5B06-1A2D-4C2C-BB6A-43ED054EDCA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seciton25", "Seciton25\Seciton25.csproj", "{BDB40DF1-1D42-4128-A849-EC685B0C05A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seciton25", "Seciton25\Seciton25.csproj", "{BDB40DF1-1D42-4128-A849-EC685B0C05A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YousefBank.Entities", "YousefBank.Entities\YousefBank.Entities.csproj", "{BFA7D377-D853-4DB2-A44C-1B32A203FAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YousefBank.DataAcc", "YousefBank.DataAcc\YousefBank.DataAcc.csproj", "{1FD7833F-A7EF-4A33-8A20-0DE43369738C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YousefBank.BusinessLogicLayer", "YousefBank.BusinessLogicLayer\YousefBank.BusinessLogicLayer.csproj", "{BD7DC25A-BD98-4517-9B75-09A9E74BCB12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YousefBank.configuration", "YousefBank.configuration\YousefBank.configuration.csproj", "{123A8C6B-333B-408D-A099-ABC3C9B65899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YousefBank.Eceptions", "YousefBank.Eceptions\YousefBank.Eceptions.csproj", "{B40938AD-9E5E-43F2-B806-A4E4AD3FD71F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{BDB40DF1-1D42-4128-A849-EC685B0C05A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB40DF1-1D42-4128-A849-EC685B0C05A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB40DF1-1D42-4128-A849-EC685B0C05A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA7D377-D853-4DB2-A44C-1B32A203FAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA7D377-D853-4DB2-A44C-1B32A203FAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA7D377-D853-4DB2-A44C-1B32A203FAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA7D377-D853-4DB2-A44C-1B32A203FAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD7833F-A7EF-4A33-8A20-0DE43369738C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD7833F-A7EF-4A33-8A20-0DE43369738C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD7833F-A7EF-4A33-8A20-0DE43369738C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD7833F-A7EF-4A33-8A20-0DE43369738C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7DC25A-BD98-4517-9B75-09A9E74BCB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7DC25A-BD98-4517-9B75-09A9E74BCB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7DC25A-BD98-4517-9B75-09A9E74BCB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7DC25A-BD98-4517-9B75-09A9E74BCB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123A8C6B-333B-408D-A099-ABC3C9B65899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123A8C6B-333B-408D-A099-ABC3C9B65899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123A8C6B-333B-408D-A099-ABC3C9B65899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123A8C6B-333B-408D-A099-ABC3C9B65899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40938AD-9E5E-43F2-B806-A4E4AD3FD71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40938AD-9E5E-43F2-B806-A4E4AD3FD71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40938AD-9E5E-43F2-B806-A4E4AD3FD71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40938AD-9E5E-43F2-B806-A4E4AD3FD71F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.BusinessLogicLayer\obj\Debug\net5.0\YousefBank.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.BusinessLogicLayer\obj\Debug\net5.0\YousefBank.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.BusinessLogicLayer\obj\Debug\net5.0\YousefBank.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.BusinessLogicLayer\obj\Debug\net5.0\YousefBank.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.BusinessLogicLayer\obj\Debug\net5.0\YousefBank.BusinessLogicLayer.csproj.CoreCompileInputs.cache

@@ -1,11 +1,106 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "YousefBank.BusinessLogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "YousefBank.DataAcc": "1.0.0",
+          "YousefBank.Eceptions": "1.0.0",
+          "YousefBank.Entities": "1.0.0",
+          "YousefBank.configuration": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/YousefBank.BusinessLogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.BusinessLogicLayer.dll": {}
+        }
+      },
+      "YousefBank.configuration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/YousefBank.configuration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.configuration.dll": {}
+        }
+      },
+      "YousefBank.DataAcc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "YousefBank.Eceptions": "1.0.0",
+          "YousefBank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/YousefBank.DataAcc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.DataAcc.dll": {}
+        }
+      },
+      "YousefBank.Eceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/YousefBank.Eceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.Eceptions.dll": {}
+        }
+      },
+      "YousefBank.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "YousefBank.Eceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/YousefBank.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "YousefBank.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.BusinessLogicLayer/YousefBank.BusinessLogicLayer.csproj",
+      "msbuildProject": "../YousefBank.BusinessLogicLayer/YousefBank.BusinessLogicLayer.csproj"
+    },
+    "YousefBank.configuration/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.configuration/YousefBank.configuration.csproj",
+      "msbuildProject": "../YousefBank.configuration/YousefBank.configuration.csproj"
+    },
+    "YousefBank.DataAcc/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.DataAcc/YousefBank.DataAcc.csproj",
+      "msbuildProject": "../YousefBank.DataAcc/YousefBank.DataAcc.csproj"
+    },
+    "YousefBank.Eceptions/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.Eceptions/YousefBank.Eceptions.csproj",
+      "msbuildProject": "../YousefBank.Eceptions/YousefBank.Eceptions.csproj"
+    },
+    "YousefBank.Entities/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.Entities/YousefBank.Entities.csproj",
+      "msbuildProject": "../YousefBank.Entities/YousefBank.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "YousefBank.BusinessLogicLayer >= 1.0.0",
+      "YousefBank.Eceptions >= 1.0.0",
+      "YousefBank.Entities >= 1.0.0",
+      "YousefBank.configuration >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yje\\.nuget\\packages\\": {}
@@ -33,7 +128,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.BusinessLogicLayer\\YousefBank.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.BusinessLogicLayer\\YousefBank.BusinessLogicLayer.csproj"
+            },
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.configuration\\YousefBank.configuration.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.configuration\\YousefBank.configuration.csproj"
+            },
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Eceptions\\YousefBank.Eceptions.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Eceptions\\YousefBank.Eceptions.csproj"
+            },
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Entities\\YousefBank.Entities.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Entities\\YousefBank.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

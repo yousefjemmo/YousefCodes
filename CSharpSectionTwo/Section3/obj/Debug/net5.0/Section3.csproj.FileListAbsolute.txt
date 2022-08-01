@@ -14,3 +14,11 @@ C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\Section3\obj\Debug\net5.0
 C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.pdb
 C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.genruntimeconfig.cache
 C:\Users\yje\source\repos\Temperature\CSharpSectionTwo\Section3\obj\Debug\net5.0\ref\Section3.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.AssemblyInfo.cs
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\refint\Section3.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\Section3\obj\Debug\net5.0\Section3.pdb

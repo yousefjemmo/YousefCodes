@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YousefBank.Entities/1.0.0": {
+        "dependencies": {
+          "YousefBank.Eceptions": "1.0.0"
+        },
+        "runtime": {
+          "YousefBank.Entities.dll": {}
+        }
+      },
+      "YousefBank.Eceptions/1.0.0": {
+        "runtime": {
+          "YousefBank.Eceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YousefBank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YousefBank.Eceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

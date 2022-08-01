@@ -1,0 +1,12 @@
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\bin\Debug\net5.0\YousefBank.configuration.deps.json
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\bin\Debug\net5.0\YousefBank.configuration.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\bin\Debug\net5.0\YousefBank.configuration.pdb
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.AssemblyInfo.cs
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\refint\YousefBank.configuration.dll
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\YousefBank.configuration.pdb
+C:\Users\yje\source\repos\Yousef Codes\CSharpSectionTwo\YousefBank.configuration\obj\Debug\net5.0\ref\YousefBank.configuration.dll

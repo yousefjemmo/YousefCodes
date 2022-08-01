@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YousefBank.configuration/1.0.0": {
+        "runtime": {
+          "YousefBank.configuration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YousefBank.configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

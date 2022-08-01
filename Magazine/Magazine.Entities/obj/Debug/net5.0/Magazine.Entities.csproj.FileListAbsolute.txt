@@ -1,0 +1,15 @@
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\bin\Debug\net5.0\Magazine.Entities.deps.json
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\bin\Debug\net5.0\Magazine.Entities.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\bin\Debug\net5.0\Magazine.Entities.pdb
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\bin\Debug\net5.0\Magazine.Exceptions.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\bin\Debug\net5.0\Magazine.Exceptions.pdb
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.AssemblyInfo.cs
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.csproj.CopyComplete
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\refint\Magazine.Entities.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\Magazine.Entities.pdb
+C:\Users\yje\source\repos\Magazine\Magazine.Entities\obj\Debug\net5.0\ref\Magazine.Entities.dll

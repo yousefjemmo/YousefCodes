@@ -1,0 +1,12 @@
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\bin\Debug\net5.0\Magazine.Exceptions.deps.json
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\bin\Debug\net5.0\Magazine.Exceptions.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\bin\Debug\net5.0\Magazine.Exceptions.pdb
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.csproj.AssemblyReference.cache
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.AssemblyInfoInputs.cache
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.AssemblyInfo.cs
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\refint\Magazine.Exceptions.dll
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\Magazine.Exceptions.pdb
+C:\Users\yje\source\repos\Magazine\Magazine.Exceptions\obj\Debug\net5.0\ref\Magazine.Exceptions.dll

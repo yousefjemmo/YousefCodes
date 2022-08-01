@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "YousefBank.Eceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/YousefBank.Eceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.Eceptions.dll": {}
+        }
+      },
+      "YousefBank.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "YousefBank.Eceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/YousefBank.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YousefBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YousefBank.Eceptions/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.Eceptions/YousefBank.Eceptions.csproj",
+      "msbuildProject": "../YousefBank.Eceptions/YousefBank.Eceptions.csproj"
+    },
+    "YousefBank.Entities/1.0.0": {
+      "type": "project",
+      "path": "../YousefBank.Entities/YousefBank.Entities.csproj",
+      "msbuildProject": "../YousefBank.Entities/YousefBank.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "YousefBank.Eceptions >= 1.0.0",
+      "YousefBank.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yje\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.DataAcc\\YousefBank.DataAcc.csproj",
+      "projectName": "YousefBank.DataAcc",
+      "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.DataAcc\\YousefBank.DataAcc.csproj",
+      "packagesPath": "C:\\Users\\yje\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.DataAcc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yje\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Eceptions\\YousefBank.Eceptions.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Eceptions\\YousefBank.Eceptions.csproj"
+            },
+            "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Entities\\YousefBank.Entities.csproj": {
+              "projectPath": "C:\\Users\\yje\\source\\repos\\Yousef Codes\\CSharpSectionTwo\\YousefBank.Entities\\YousefBank.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
